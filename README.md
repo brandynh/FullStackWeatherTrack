@@ -12,7 +12,7 @@ Click [here](https://brandynh.github.io/FullStackWeatherTrack/) to visit the Ful
 
 ## Screenshots / Demo
 
-![Screenshot]()
+![Screenshot](./assets/FullStack%20Weather%20Track.gif)
 
 ## Credits
 
